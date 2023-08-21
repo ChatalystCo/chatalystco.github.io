@@ -110,13 +110,13 @@ table {
 }
 
 #loading #preloader:after {
-  content: "Phly is loading";
+  content: "Chatalyst is loading";
   /* Text under the circles */
   position: absolute;
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 400;
-  color: #4a4c5b;
+  color: #6699ff;
   letter-spacing: 1px;
   font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   top: 90px;
@@ -129,7 +129,7 @@ table {
 
 #loading #preloader span {
   position: absolute;
-  border: 8px solid #ff3366;
+  border: 8px solid #ff9999;
   border-top: 8px solid transparent;
   border-radius: 999px;
 }
@@ -183,7 +183,7 @@ table {
 /* 1. Generic styles ................... */
 /* ------------------------------------- */
 body {
-  background: #ff3366;
+  background: #6699ff;
   font-family: "Varela Round", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   color: #FFFFFF;
   -webkit-font-smoothing: antialiased;
@@ -276,7 +276,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 h1 {
   font-size: 40px;
   font-weight: 700;
-  color: #ff3366;
+  color: #ff9999;
 }
 
 h2 {
@@ -365,7 +365,7 @@ sup {
 .action-btn {
   background: transparent;
   color: #FFFFFF;
-  border: 2px solid #ff3366;
+  border: 2px solid #ff6666;
   height: 50px;
   padding: 1em 1.2em;
   font-size: 1em;
